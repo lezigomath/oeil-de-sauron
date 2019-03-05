@@ -1,0 +1,18 @@
+.noir {
+	background-color: black;
+  border: 0.2px solid white;
+  padding: 2%;
+}
+
+
+.jaune {
+	background-color: yellow;
+  border: 0.2px solid white;
+  padding: 2%;
+}
+
+.orange {
+	background-color: orange;
+  border: 0.2px solid white;
+  padding: 2%;
+}
